@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlgoSort/static/css/main.65b101f4.chunk.css",
+    "main.js": "/AlgoSort/static/js/main.8962dd16.chunk.js",
+    "main.js.map": "/AlgoSort/static/js/main.8962dd16.chunk.js.map",
+    "runtime-main.js": "/AlgoSort/static/js/runtime-main.cc0ba0b9.js",
+    "runtime-main.js.map": "/AlgoSort/static/js/runtime-main.cc0ba0b9.js.map",
+    "static/js/2.fb96abfd.chunk.js": "/AlgoSort/static/js/2.fb96abfd.chunk.js",
+    "static/js/2.fb96abfd.chunk.js.map": "/AlgoSort/static/js/2.fb96abfd.chunk.js.map",
+    "index.html": "/AlgoSort/index.html",
+    "precache-manifest.d7db3639c2b28c8d931f5359ea724532.js": "/AlgoSort/precache-manifest.d7db3639c2b28c8d931f5359ea724532.js",
+    "service-worker.js": "/AlgoSort/service-worker.js",
+    "static/css/main.65b101f4.chunk.css.map": "/AlgoSort/static/css/main.65b101f4.chunk.css.map",
+    "static/js/2.fb96abfd.chunk.js.LICENSE.txt": "/AlgoSort/static/js/2.fb96abfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc0ba0b9.js",
+    "static/js/2.fb96abfd.chunk.js",
+    "static/css/main.65b101f4.chunk.css",
+    "static/js/main.8962dd16.chunk.js"
+  ]
+}
