@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AlgoSort/static/css/main.65b101f4.chunk.css",
-    "main.js": "/AlgoSort/static/js/main.8962dd16.chunk.js",
-    "main.js.map": "/AlgoSort/static/js/main.8962dd16.chunk.js.map",
-    "runtime-main.js": "/AlgoSort/static/js/runtime-main.cc0ba0b9.js",
-    "runtime-main.js.map": "/AlgoSort/static/js/runtime-main.cc0ba0b9.js.map",
-    "static/js/2.fb96abfd.chunk.js": "/AlgoSort/static/js/2.fb96abfd.chunk.js",
-    "static/js/2.fb96abfd.chunk.js.map": "/AlgoSort/static/js/2.fb96abfd.chunk.js.map",
-    "index.html": "/AlgoSort/index.html",
-    "precache-manifest.d7db3639c2b28c8d931f5359ea724532.js": "/AlgoSort/precache-manifest.d7db3639c2b28c8d931f5359ea724532.js",
-    "service-worker.js": "/AlgoSort/service-worker.js",
-    "static/css/main.65b101f4.chunk.css.map": "/AlgoSort/static/css/main.65b101f4.chunk.css.map",
-    "static/js/2.fb96abfd.chunk.js.LICENSE.txt": "/AlgoSort/static/js/2.fb96abfd.chunk.js.LICENSE.txt"
+    "main.css": "/AlgoSort-Sorting-Visualiser/static/css/main.65b101f4.chunk.css",
+    "main.js": "/AlgoSort-Sorting-Visualiser/static/js/main.219eadff.chunk.js",
+    "main.js.map": "/AlgoSort-Sorting-Visualiser/static/js/main.219eadff.chunk.js.map",
+    "runtime-main.js": "/AlgoSort-Sorting-Visualiser/static/js/runtime-main.5f4ef3ee.js",
+    "runtime-main.js.map": "/AlgoSort-Sorting-Visualiser/static/js/runtime-main.5f4ef3ee.js.map",
+    "static/js/2.4db1bba8.chunk.js": "/AlgoSort-Sorting-Visualiser/static/js/2.4db1bba8.chunk.js",
+    "static/js/2.4db1bba8.chunk.js.map": "/AlgoSort-Sorting-Visualiser/static/js/2.4db1bba8.chunk.js.map",
+    "index.html": "/AlgoSort-Sorting-Visualiser/index.html",
+    "precache-manifest.71a41a79dece95f396417fd98f998149.js": "/AlgoSort-Sorting-Visualiser/precache-manifest.71a41a79dece95f396417fd98f998149.js",
+    "service-worker.js": "/AlgoSort-Sorting-Visualiser/service-worker.js",
+    "static/css/main.65b101f4.chunk.css.map": "/AlgoSort-Sorting-Visualiser/static/css/main.65b101f4.chunk.css.map",
+    "static/js/2.4db1bba8.chunk.js.LICENSE.txt": "/AlgoSort-Sorting-Visualiser/static/js/2.4db1bba8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc0ba0b9.js",
-    "static/js/2.fb96abfd.chunk.js",
+    "static/js/runtime-main.5f4ef3ee.js",
+    "static/js/2.4db1bba8.chunk.js",
     "static/css/main.65b101f4.chunk.css",
-    "static/js/main.8962dd16.chunk.js"
+    "static/js/main.219eadff.chunk.js"
   ]
 }
