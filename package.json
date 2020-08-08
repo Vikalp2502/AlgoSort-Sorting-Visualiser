@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "vikalp",
   "license": "ISC",
-  "homepage": "http://Vikalp2502.github.io/AlgoSort",
+  "homepage": "http://Vikalp2502.github.io/AlgoSort-Sorting-Visualiser",
   "dependencies": {
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
